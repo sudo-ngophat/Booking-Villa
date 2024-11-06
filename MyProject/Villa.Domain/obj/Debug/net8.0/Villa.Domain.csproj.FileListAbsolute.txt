@@ -1,0 +1,14 @@
+E:\LastChance\Villa.Domain\bin\Debug\net8.0\Villa.Domain.deps.json
+E:\LastChance\Villa.Domain\bin\Debug\net8.0\Villa.Domain.runtimeconfig.json
+E:\LastChance\Villa.Domain\bin\Debug\net8.0\Villa.Domain.dll
+E:\LastChance\Villa.Domain\bin\Debug\net8.0\Villa.Domain.pdb
+E:\LastChance\Villa.Domain\obj\Debug\net8.0\Villa.Domain.csproj.AssemblyReference.cache
+E:\LastChance\Villa.Domain\obj\Debug\net8.0\Villa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\LastChance\Villa.Domain\obj\Debug\net8.0\Villa.Domain.AssemblyInfoInputs.cache
+E:\LastChance\Villa.Domain\obj\Debug\net8.0\Villa.Domain.AssemblyInfo.cs
+E:\LastChance\Villa.Domain\obj\Debug\net8.0\Villa.Domain.csproj.CoreCompileInputs.cache
+E:\LastChance\Villa.Domain\obj\Debug\net8.0\Villa.Domain.dll
+E:\LastChance\Villa.Domain\obj\Debug\net8.0\refint\Villa.Domain.dll
+E:\LastChance\Villa.Domain\obj\Debug\net8.0\Villa.Domain.pdb
+E:\LastChance\Villa.Domain\obj\Debug\net8.0\Villa.Domain.genruntimeconfig.cache
+E:\LastChance\Villa.Domain\obj\Debug\net8.0\ref\Villa.Domain.dll
